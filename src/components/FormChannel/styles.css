@@ -1,0 +1,11 @@
+.formChannel {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.formChannel > .buttons {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
